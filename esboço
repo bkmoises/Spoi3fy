@@ -3,3 +3,16 @@ Adicione a seguinte linha ao seu i3 config
 bar {
 		status_command i3blocks -c ~/.config/i3/i3blocks.conf 
 }
+
+########################
+
+Spoi3fy
+Table of contents
+
+Depends
+Getting started
+Commands
+License
+
+Show track title running on spotify in i3 status bar.
+Pause, resume and change tracks with keyboard with a VIM editor lover.

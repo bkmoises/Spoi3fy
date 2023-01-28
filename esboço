@@ -1,0 +1,5 @@
+Adicione a seguinte linha ao seu i3 config
+
+bar {
+		status_command i3blocks -c ~/.config/i3/i3blocks.conf 
+}

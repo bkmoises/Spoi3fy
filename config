@@ -1,0 +1,39 @@
+#-----------------------------------#
+#              Spoi3fy              #
+#-----------------------------------#
+
+# bindsym to enter spotify mode, change the key combination to suit you better.
+bindsym $mod+s mode "spotify"; exec "notify-send 'Spotify Mode'
+
+# Spotify mode settings
+mode "spotify" {
+
+# Pause, resume and change tracks:
+bindsym k exec spotifycli --playpause
+bindsym l exec spotifycli --next
+bindsym h exec spotifycli --prev
+
+# alternatively, you can use the cursor keys:
+# bindsym Left exec spotifycli --prev
+# bindsym Right exec spotifycli --next
+# bindsym Up exec spotifycli --playpause
+# bindsym Down exec spotifycli --playpause
+
+# Open spotify shurtcut
+bindsym o exec spotify
+
+# Focus spotify workspace
+bindsym f [class="^Spotify$"] focus
+
+# Kill spotify window
+bindsym q exec pkill spotify
+
+    # exit spotify mode Enter, Escape or Ctrl+C
+    bindsym Return mode "default"
+    bindsym Escape mode "default"
+    bindsym Ctrl+c mode "default"
+}
+
+
+# Open spotify on dedicated workspace (replace '$ws10' with your preferred workspace)
+for_window [class="^Spotify$"] move to workspace $ws10

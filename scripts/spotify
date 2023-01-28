@@ -1,0 +1,4 @@
+#!/usr/bin/env bash
+
+SPOTIFY_STAT=$(spotifycli --status)
+echo "$SPOTIFY_STAT"

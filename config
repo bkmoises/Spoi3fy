@@ -19,16 +19,16 @@ bindsym h exec spotifycli --prev
 # bindsym Up exec spotifycli --playpause
 # bindsym Down exec spotifycli --playpause
 
-# Open spotify shurtcut
+# Open spotify shurtcut:
 bindsym o exec spotify
 
 # Focus spotify workspace
 bindsym f [class="^Spotify$"] focus
 
-# Kill spotify window
+# Kill spotify window:
 bindsym q exec pkill spotify
 
-    # exit spotify mode Enter, Escape or Ctrl+C
+    # exit spotify mode: Enter, Escape or Ctrl+C
     bindsym Return mode "default"
     bindsym Escape mode "default"
     bindsym Ctrl+c mode "default"

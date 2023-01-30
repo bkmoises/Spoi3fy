@@ -29,6 +29,7 @@ I love the *i3vm* and I love the ease of use it brings using just a keyboard, bu
 ### Example
 ![enter image description here](https://raw.githubusercontent.com/bkmoises/Spoi3fy/main/example.png)
 
+
 ## Depends
 [i3Blocks](https://github.com/vivien/i3blocks) 
 

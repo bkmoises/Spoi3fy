@@ -27,6 +27,7 @@ I love the *i3vm* and I love the ease of use it brings using just a keyboard, bu
 
 ## Depends
 [i3Blocks](https://github.com/vivien/i3blocks) 
+
 *Access the repository for more details about the project, installation and configuration.*
 
     git clone https://github.com/vivien/i3blocks
@@ -37,6 +38,7 @@ I love the *i3vm* and I love the ease of use it brings using just a keyboard, bu
     make install
 
 [Spotify CLI Linux](https://github.com/pwittchen/spotify-cli-linux)
+
 *Access the repository for more details about the project, installation and configuration.*
 
     git clone git@github.com:pwittchen/spotify-cli-linux.git

@@ -11,7 +11,7 @@ Table of contents
 
 About
 Depends
-Getting started
+Installation
 Commands
 License
 
@@ -41,4 +41,11 @@ cd i3blocks
 make
 make install
 
+Spotify CLI Linux
+https://github.com/pwittchen/spotify-cli-linux
+Access the repository for more details about the project, installation and configuration.
 
+CODIGO
+git clone git@github.com:pwittchen/spotify-cli-linux.git
+cd spotify-cli-linux
+sudo cp spotifycli/spotifycli.py /usr/local/bin/spotifycli

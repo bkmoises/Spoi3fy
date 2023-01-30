@@ -57,3 +57,17 @@ Restart your i3vm environment (usually Mod + Shift + R).
 
 Commands
 
+On Normal Mode
+<Mod + S> Enter on Spotify mode
+
+On Spotify Mode
+k Pause / Resume
+l Next Track
+h Previous Track
+
+f Focus Spotify workspace
+o Open Spotify
+q Close Spotify
+
+<Ctrl+C> / <Return> / <Backspace> Exit Spotify mode
+

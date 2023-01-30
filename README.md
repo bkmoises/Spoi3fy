@@ -4,6 +4,10 @@
 
 [**About**](#About)
 
+   - [Features](#Features)
+
+   - [Example](#Example)
+
 [**Depends**](#Depends)
 
 [**How to install**](#how-to-install)

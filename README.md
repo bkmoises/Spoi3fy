@@ -2,7 +2,7 @@
 
 ### Table of contents
 
-**About**
+[**About**](#About)
 
 **Depends**
 
@@ -12,7 +12,7 @@
 
 **License**
 
-## About
+## [About][About]
 I love the *i3vm* and I love the ease of use it brings using just a keyboard, but it doesn't have many features that interact with the *Spotify* experience, whether it be in terms of notifications or the need to pick up the mouse to change tracks and pause and resume the currently playing tracks.
 
 **Spoi3fy** is a simple collection of my settings that make the experience of using the best music player with the best window manager much better.

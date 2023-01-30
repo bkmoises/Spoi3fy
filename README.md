@@ -6,7 +6,7 @@
 
 [**Depends**](#Depends)
 
-[**How to install**](#"How to install")
+[**How to install**](#how-to-install)
 
 [**Commands**](#Commands)
 

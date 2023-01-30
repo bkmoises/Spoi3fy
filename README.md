@@ -71,7 +71,7 @@ Restart your *i3vm* environment (usually `Mod + Shift + R`).
 #### On Spotify Mode
 | Key | Description |
 |--|--|
-| `s` | Pause/Resume Track |
+| `k` | Pause/Resume Track |
 | `l` | Next Track |
 | `h` | Previous Track |
 | `f` | Focus *Spotify* workspace |

@@ -1,11 +1,3 @@
-Adicione a seguinte linha ao seu i3 config
-
-bar {
-		status_command i3blocks -c ~/.config/i3/i3blocks.conf 
-}
-
-########################
-
 Spoi3fy
 Table of contents
 
@@ -54,7 +46,14 @@ How to install
 clone repository to your prefered location
 Move the scripts directory to your i3 config file (usually placed in ~/.config/i3/)
 Insert the contents of the config file at the end of your config file, path ~/.config/i3/config
+Still in ~/.config/i3/config add the following line to the 'bar' field.
+CODIGO
+bar {
+		status_command i3blocks -c ~/.config/i3/i3blocks.conf 
+}
+
 Insert the contents of the i3blocks.conf file in your i3blocks configuration file, path ~/.config/i3/i3blocks.conf
 Restart your i3vm environment.
 
 Commands
+

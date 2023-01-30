@@ -19,8 +19,8 @@ I love the *i3vm* and I love the ease of use it brings using just a keyboard, bu
 
 ### Features
 
- - Show track title running on *Spotify*  in *i3* status bar. Pause,
- - resume and change tracks with keyboard with a *VIM* editor lover.
+ - Show track title running on *Spotify*  in *i3* status bar.  
+ - Pause, resume and change tracks with keyboard with a *VIM* editor lover.
 
 ### Example
 ![enter image description here](https://raw.githubusercontent.com/bkmoises/Spoi3fy/main/example.png)

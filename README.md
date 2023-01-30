@@ -8,7 +8,7 @@
 
 [**How to install**](#"How to install")
 
-[**Commands**](Commands)
+[**Commands**](#Commands)
 
 [**License**](#License)
 

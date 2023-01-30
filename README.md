@@ -54,7 +54,7 @@ Insert the contents of the config file at the end of your config file, path `~/.
 Still in `~/.config/i3/config` add the following line to the `bar` field.
 
     bar {
-  status_command i3blocks -c ~/.config/i3/i3blocks.conf 
+      status_command i3blocks -c ~/.config/i3/i3blocks.conf 
     }
 
 Insert the contents of the `i3blocks.conf` file in your *i3blocks* configuration file, path `~/.config/i3/i3blocks.conf`.

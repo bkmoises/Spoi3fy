@@ -46,8 +46,11 @@ I love the *i3vm* and I love the ease of use it brings using just a keyboard, bu
 *Access the repository for more details about the project, installation and configuration.*
 ## How to install
 Clone repository to your prefered location.
+
 Move the scripts directory to your *i3* config file (usually placed in `~/.config/i3/`).
+
 Insert the contents of the config file at the end of your config file, path `~/.config/i3/config`.
+
 Still in `~/.config/i3/config` add the following line to the `bar` field.
 
     bar {
@@ -55,6 +58,7 @@ Still in `~/.config/i3/config` add the following line to the `bar` field.
     }
 
 Insert the contents of the `i3blocks.conf` file in your *i3blocks* configuration file, path `~/.config/i3/i3blocks.conf`.
+
 Restart your *i3vm* environment (usually `Mod + Shift + R`).
 
 ## Commands

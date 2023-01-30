@@ -51,7 +51,7 @@ I love the *i3vm* and I love the ease of use it brings using just a keyboard, bu
 ## How to install
 Clone repository to your prefered location.
 
-Move the scripts directory to your *i3* config file (usually placed in `~/.config/i3/`).
+Move the scripts directory to your *i3* config file (usually placed in `~/.config/i3`).
 
 Insert the contents of the config file at the end of your config file, path `~/.config/i3/config`.
 

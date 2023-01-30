@@ -53,7 +53,7 @@ bar {
 }
 
 Insert the contents of the i3blocks.conf file in your i3blocks configuration file, path ~/.config/i3/i3blocks.conf
-Restart your i3vm environment.
+Restart your i3vm environment (usually Mod + Shift + R).
 
 Commands
 

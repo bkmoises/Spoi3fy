@@ -69,5 +69,10 @@ f Focus Spotify workspace
 o Open Spotify
 q Close Spotify
 
-<Ctrl+C> / <Return> / <Backspace> Exit Spotify mode
+<Ctrl+C> <Escape> <Backspace> Exit Spotify mode
 
+License
+
+Copyright (c) 2023 Moisés Andrade
+
+See the file LICENSE for information of licensing and distribution.

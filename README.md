@@ -3,9 +3,13 @@
 ### Table of contents
 
 **About**
+
 **Depends**
+
 **How to install**
+
 **Commands**
+
 **License**
 
 ## About

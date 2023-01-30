@@ -34,6 +34,5 @@ bindsym q exec pkill spotify
     bindsym Ctrl+c mode "default"
 }
 
-
 # Open spotify on dedicated workspace (replace '$ws10' with your preferred workspace)
 for_window [class="^Spotify$"] move to workspace $ws10

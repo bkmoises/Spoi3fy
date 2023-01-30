@@ -28,8 +28,6 @@ I love the *i3vm* and I love the ease of use it brings using just a keyboard, bu
 ## Depends
 [i3Blocks](https://github.com/vivien/i3blocks) 
 
-*Access the repository for more details about the project, installation and configuration.*
-
     git clone https://github.com/vivien/i3blocks
     cd i3blocks
     ./autogen.sh
@@ -37,14 +35,15 @@ I love the *i3vm* and I love the ease of use it brings using just a keyboard, bu
     make
     make install
 
-[Spotify CLI Linux](https://github.com/pwittchen/spotify-cli-linux)
-
 *Access the repository for more details about the project, installation and configuration.*
+
+[Spotify CLI Linux](https://github.com/pwittchen/spotify-cli-linux)
 
     git clone git@github.com:pwittchen/spotify-cli-linux.git
     cd spotify-cli-linux
     sudo cp spotifycli/spotifycli.py /usr/local/bin/spotifycli
 
+*Access the repository for more details about the project, installation and configuration.*
 ## How to install
 Clone repository to your prefered location.
 Move the scripts directory to your *i3* config file (usually placed in `~/.config/i3/`).

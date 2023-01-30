@@ -10,7 +10,6 @@ Spoi3fy
 Table of contents
 
 About
-Example
 Depends
 Getting started
 Commands
@@ -25,3 +24,21 @@ Spoi3fy is a simple collection of my settings that make the experience of using 
 Features
 Show track title running on spotify in i3 status bar.
 Pause, resume and change tracks with keyboard with a VIM editor lover.
+
+Example
+IMG AQUI
+
+Depends
+i3Blocks 
+https://github.com/vivien/i3blocks
+Access the repository for more details about the project, installation and configuration.
+
+CODIGO
+git clone https://github.com/vivien/i3blocks
+cd i3blocks
+./autogen.sh
+./configure
+make
+make install
+
+

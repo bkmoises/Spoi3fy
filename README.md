@@ -4,13 +4,13 @@
 
 [**About**](#About)
 
-**Depends**
+[**Depends**](#Depends)
 
-**How to install**
+[**How to install**](#How to install)
 
-**Commands**
+[**Commands**](Commands)
 
-**[License**](#License)
+[**License**](#License)
 
 ## About
 I love the *i3vm* and I love the ease of use it brings using just a keyboard, but it doesn't have many features that interact with the *Spotify* experience, whether it be in terms of notifications or the need to pick up the mouse to change tracks and pause and resume the currently playing tracks.

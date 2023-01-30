@@ -77,7 +77,7 @@ Restart your *i3vm* environment (usually `Mod + Shift + R`).
 | `f` | Focus *Spotify* workspace |
 | `o` | Open *Spotify* |
 | `q` | Close *Spotify* |
-| `<C-c>` `<Escape>` `Return`| Exit *Spotify* mode |
+| `<C-c>` `<Escape>` `<Return>`| Exit *Spotify* mode |
 
 ## License
 

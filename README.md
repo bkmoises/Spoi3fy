@@ -53,11 +53,11 @@ Insert the contents of the config file at the end of your config file, path `~/.
 
 Still in `~/.config/i3/config` add the following line to the `bar` field.
 
+Insert the contents of the `i3blocks.conf` file in your *i3blocks* configuration file, path `~/.config/i3/i3blocks.conf`:
+
     bar {
     	status_command i3blocks -c ~/.config/i3/i3blocks.conf 
     }
-
-Insert the contents of the `i3blocks.conf` file in your *i3blocks* configuration file, path `~/.config/i3/i3blocks.conf`.
 
 Restart your *i3vm* environment (usually `Mod + Shift + R`).
 
